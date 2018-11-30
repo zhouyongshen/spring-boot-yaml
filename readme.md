@@ -1,0 +1,1 @@
+YAML 支持 ConfigurationProperties
